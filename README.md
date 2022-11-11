@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img alt="Weather App" src="./sample.jpg"/>
+  <img alt="Weather App" height = 600, width=300, src="./sample.jpg"/>
 </div>
 
 <br/>
